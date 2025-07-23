@@ -1,0 +1,44 @@
+# --- Core ---
+pandas
+numpy
+scikit-learn
+
+# --- NLP / Text Processing ---
+nltk
+spacy
+textblob
+beautifulsoup4
+regex
+sentencepiece  # tokenizer support for transformers
+transformers   # BERT, DistilBERT etc.
+torch          # for transformers backend
+
+# --- Model Training ---
+xgboost
+lightgbm
+catboost
+
+# --- Visualization ---
+matplotlib
+seaborn
+plotly
+
+# --- MLOps ---
+mlflow
+joblib
+
+# --- Experiment Tracking & Logging ---
+optuna  # optional: for hyperparameter tuning
+
+# --- Web App (Flask + CORS) ---
+flask
+flask-cors
+
+# Optional utilities
+jupyterlab  # for notebooks
+python-dotenv  # for managing environment variables
+
+
+# --- Miscellaneous ---
+tqdm
+scipy
